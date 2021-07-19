@@ -1,0 +1,19 @@
+.small-heading{
+    color: #05386b;
+}
+
+.medium-heading{
+    color:#ccc;
+}
+
+.large-heading{
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom:10px ;
+}
+
+#about-content p{
+    text-align: center;
+    line-height: 2;
+}
